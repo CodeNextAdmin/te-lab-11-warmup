@@ -1,33 +1,30 @@
 html{
-  border-style: dashed;
+  border-style: solid;
+  border-color: red;
 }
 
 body{
-  margin: 50px;
+  left-margin: 60px;
 }
 
 h1 {
-  color: red;
-  font-size: 100px;
-  font-family: sans-serif;
-  text-align: center;
+  color: yellow;
+  font-size: 40px;
+  font-family: Times New Roman;
+  align: center;
 }
 
 h2 {
-  color: blue;
-  font-style: italic;
-  font-size: 35px; 
+  color: purple;
+  font-size: 15px; 
 }
 
 h3 {
-  color: green;
+  color: blue;
+  font-style: italic;
 }
 
 p {
-  color: black;
+  color: orange;
   font-size: 25px; 
-}
-
-img{
-  text-align: center; 
 }
